@@ -1,0 +1,13 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.main{
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 34px;
+    padding: 20px;
+}
